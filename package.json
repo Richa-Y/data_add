@@ -2,7 +2,7 @@
   "name": "test2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Richa-Y.gihub.io/Add_Contact/",
+  "homepage": "https://Richa-Y.gihub.io/Contact_App_React/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
