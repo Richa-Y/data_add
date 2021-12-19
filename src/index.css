@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.box{
+  background-color: bisque;
+  border:1px solid white;
+  margin:20px;
+  border-radius: 30px;
+  position:relative;
+  padding:10px;
+}
+.wrap{
+  width:70%;
+  margin:auto;
+}
+.box h6{
+  text-align: center;
+}
+.image span{
+  font-weight:700;
+  position:relative;
+  left:20%;
+}
+.image img{
+  border-radius:50%;
+  left:6%;
+  position:relative;
+}
+.email{
+  font-weight:700;
+}
+.phone{
+  font-weight:700;
+  float:right;
+}
+.btn{
+  margin:10px;
+}
